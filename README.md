@@ -1,13 +1,13 @@
 # 👋 Hello, I'm **Ibikunle Gabriel**. Welcome to my GitHub profile.
-I am a data science professional with a keen interest in data science, data analytics, business intelligence, Machine Learning, Deep Learning, Artificial Intelligence, and Cloud technologies. I'm deeply committed to solving complex problems, exploring new technologies, building pragmatic projects and sharing my knowledge of the beautiful and expansive world of data.
+I am a data science professional with a keen interest in data science, data analytics, business intelligence, Machine Learning, Deep Learning and Cloud Computing. I'm deeply committed to solving complex p roblems, exploring new technologies, building pragmatic projects and sharing my knowledge of the beautiful and expansive world of data.
 
 
 ## 🚀🦾 **Skills and Competencies**
 Here are my key skills and competencies 
 - Database administration with SQL
+- Python Programming
+- R Programming
 - Machine Learning
-- Google Cloud Platform
-- LLM/RAG/LangChain
 - Deep Learning
 - Explainable AI
 - Data Visualization
@@ -16,7 +16,12 @@ Here are my key skills and competencies
 - Qualitative data analysis
 - Financial modeling
 - Git & GitHub
-- App deployment with Streamlit
+- DevOP
+- Duckdb
+- Metabase
+- MLOP
+- Google Cloud Platform (GCP)
+- Streamlit
 - Docker
 - Kubernetes
 - Time series forecasting
@@ -87,15 +92,17 @@ Here are the data science and data analytics tools I use efficiently
 - ⚡ Fun fact about me: I love to sightsee in my spare time. I also love reading Sci-fi books, thriller novels and  technolgy books.
 
 <!-- This is a comment: GitHub Stats -->
-   [![](https://ghstats.dev/api/card?username=ibikunle-g&theme=ocean)](https://github.com/rowkavdev/GitHub-profile-stats)
+   [![](https://ghstats.dev/api/card?username=ibikunleg&theme=ocean)](https://github.com/rowkavdev/GitHub-profile-stats)
    
 
-<!--[![](https://ghstats.dev/api/card?username=ibikunle-g&theme=radical&size=compact&compact_count=3)](https://github.com/rowkavdev/GitHub-profile-stats)  -->
+<!--[![](https://ghstats.dev/api/card?username=ibikunleg&theme=radical&size=compact&compact_count=3)](https://github.com/rowkavdev/GitHub-profile-stats)  -->
 
-[![](https://ghstats.dev/api/card?username=ibikunle-g&theme=ocean&size=compact&compact_count=6)](https://github.com/rowkavdev/GitHub-profile-stats)
+[![](https://ghstats.dev/api/card?username=ibikunleg&theme=ocean&size=compact&compact_count=6)](https://github.com/rowkavdev/GitHub-profile-stats)
 
 <!-- This is a comment: Sparkline -->
-[![](https://ghstats.dev/api/sparkline?username=ibikunle-g&theme=ocean&days=30&width=420)](https://github.com/rowkavdev/GitHub-profile-stats)
+[![](https://ghstats.dev/api/sparkline?username=ibikunleg&theme=ocean&days=30&width=420)](https://github.com/rowkavdev/GitHub-profile-stats)
 
 <!-- This is a comment: Top languages -->
-![Top Languages](https://ghstats.dev/api/langs?username=ibikunle-g&theme=ocean&layout=vertical_list)
+![Top Languages](https://ghstats.dev/api/langs?username=ibikunleg&theme=ocean&layout=vertical_list)
+
+
