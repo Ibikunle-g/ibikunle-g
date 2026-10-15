@@ -19,6 +19,9 @@ Here are my key skills and competencies
 - DevOP
 - Duckdb
 - Metabase
+- Taguette
+- Grafana
+- Prometheus
 - MLOP
 - Google Cloud Platform (GCP)
 - Streamlit
