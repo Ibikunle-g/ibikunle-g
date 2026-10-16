@@ -11,6 +11,7 @@ Here are my key skills and competencies
 - Deep Learning
 - Explainable AI
 - Data Visualization
+- PySpark & SparkR
 - Bash scripting and cron automation
 - Dashboard and report creation 
 - Qualitative data analysis
