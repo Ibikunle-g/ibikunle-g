@@ -5,6 +5,7 @@ I am a data science professional with a keen interest in data science, data anal
 ## 🚀🦾 **Skills and Competencies**
 Here are my key skills and competencies 
 - Database administration with SQL
+- Microsoft Power BI
 - Python Programming
 - R Programming
 - Data analysis with Eviews, Stata and SPSS
