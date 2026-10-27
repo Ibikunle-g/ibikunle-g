@@ -95,7 +95,8 @@ Here are the data science and data analytics tools I use efficiently
 - 🌱 I’m currently reading business related books
 - 💬 Ask me about Machine Learning and Power BI
 - 📫 How to reach me: [ibikunlesgabriel@gmail.com](mailto:ibikunlesgabriel@gmail.com)
-- ⚡ Fun fact about me: I love to sightsee in my spare time. I also love reading Sci-fi books, thriller novels and  technolgy books.
+- ⚡ Fun fact about me: I love to sightsee in my spare time. I also love reading Sci-fi books, thriller novels and  technology books.  
+
 
 
 <div align="center">
